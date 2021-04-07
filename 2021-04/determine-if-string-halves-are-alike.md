@@ -46,7 +46,7 @@ const halvesAreAlike = function (s) {
 
 1. s를 a와 b로 나눈다.
 2. 모음 정규식은 [aeiou]이며, flag는 global과 case insensitive를 뜻하는 gi로 한다.
-   - case sensitive인 이유는 대문자인 모음과 소문자인 모음 모두를 구하기 위함이다.
+   - case insensitive인 이유는 대문자인 모음과 소문자인 모음 모두를 구하기 위함이다.
 3. a와 b 각각을 모음 정규식과 match한 후, 그 길이를 구한다. 만약 match된게 없으면, 길이를 0으로 한다.
 4. 3에서 구한 값이 a와 b가 같으면 true, 다르면 false를 반환한다.
 
