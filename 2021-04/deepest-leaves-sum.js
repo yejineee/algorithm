@@ -12,23 +12,15 @@
  */
 
 const deepestLeavesSum = function (root) {
-  let depth = 0;
-  const findDepth = (node, level) => {
-    depth = Math.max(level, depth);
-    if (node.left) {
-      findDepth(node.left, level + 1);
-    }
-    if (node.right) {
-      findDepth(node.right, level + 1);
-    }
-  };
-  findDepth(root, 1);
-
   const queue = [{ level: 1, node: root }];
+  let depth = 0;
   let sumOfLeaves = 0;
   while (queue.length) {
     const { node, level } = queue.pop();
-    if (level === depth) {
+    if (depth < level) {
+      depth = level;
+      sumOfLeaves = node.val;
+    } else if (level === depth) {
       sumOfLeaves += node.val;
     }
     if (node.left) queue.push({ level: level + 1, node: node.left });
