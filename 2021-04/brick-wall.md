@@ -57,17 +57,17 @@ N은 wall의 col의 수이고, M은 wall의 row의 수.
 var leastBricks = function (wall) {
   const totalHeight = wall.length;
   const countOfEdge = new Map();
-  let maxEdgeCount = 0;
 
-  wall.forEach((row) => {
-    let sumOfWidth = 0;
-    row.slice(0, -1).forEach((width) => {
+  const maxEdgeCount = wall.reduce((maxEdge, row) => {
+    row.slice(0, -1).reduce((sumOfWidth, width) => {
       sumOfWidth += width;
       const count = (countOfEdge.get(sumOfWidth) || 0) + 1;
       countOfEdge.set(sumOfWidth, count);
-      maxEdgeCount = Math.max(maxEdgeCount, count);
-    });
-  });
+      maxEdge = Math.max(maxEdge, count);
+      return sumOfWidth;
+    }, 0);
+    return maxEdge;
+  }, 0);
   return totalHeight - maxEdgeCount;
 };
 ```
