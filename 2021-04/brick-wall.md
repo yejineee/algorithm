@@ -1,4 +1,4 @@
-# [LeetCode] (in JS)
+# [LeetCode] Brick Wall (in JS)
 
 ### 📖 문제
 
