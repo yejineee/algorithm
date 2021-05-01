@@ -2,7 +2,8 @@
 
 ### 📖 문제
 
-[Powerful Integers](https://leetcode.com/submissions/detail/487253237/?from=explore&item_id=3726)
+[Powerful Integers](https://leetcode.com/explore/challenge/card/april-leetcoding-challenge-2021/597/week-5-april-29th-april-30th/3726/)
+
 x, y, bound가 주어졌을 때, bound 이하의 값을 갖는 모든 powerful integers의 리스트를 반환하라.
 어떠한 정수가 `x^i + y^i` (i와 j는 정수, i >= 0, j >= 0) 으로 나타낼 수 있을 때, powerful하다고 한다.
 결과의 값은 중복되어서는 안된다.
