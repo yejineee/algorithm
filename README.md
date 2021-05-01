@@ -1,5 +1,11 @@
 # LeetCode
 
+## Rules
+- template.md를 참고하여 풀이를 작성 후, 아래 List에 추가한다.
+- 문제 풀이를 issue에 올리고, 라벨에는 문제의 topic을 추가한다.
+
+## List
+
 1. Design Circular Queue - [Code](https://github.com/yejineee/LeetCode/blob/master/2021-04/design-circular-queue.js)
 2. [Determine if String Halves Are Alike](https://github.com/yejineee/LeetCode/blob/master/2021-04/determine-if-string-halves-are-alike.md)
 3. Minimum Absolute Sum Difference - [Code](https://github.com/yejineee/LeetCode/blob/master/2021-04/minimum-absolute-sum-difference.js)
