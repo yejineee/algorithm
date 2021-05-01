@@ -11,7 +11,7 @@ x, y, bound가 주어졌을 때, bound 이하의 값을 갖는 모든 powerful i
 ### 💡 Fact
 - 어떠한 값이 powerful할지 모르므로, 모든 x^i와 y^j의 합을 따져봐야 한다.
 - a^b 두 개의 합이 bound보다 작거나 같은 값을 구해야 한다. 이 때, a^b의 최댓값이 될 수 있는 경우는 a^b가 bound보다 1 작을 경우이다. a^b가 bound와 같을 경우의 b의 값은 `log(bound) / log(a)`이다. 그리고 이 값이 powerful integers를 만들 수 있는 a^b의 최댓값이다.
-- 즉 a^b에서 b의 범위는 [1, ceil(log(bound) / log(a))] 이다. 
+- 즉 a^b에서 b의 범위는 [0, ceil(log(bound) / log(a))] 이다. 
 
 
 ### 🚎 접근
