@@ -14,4 +14,4 @@
 6. [Count Binary Substrings](https://github.com/yejineee/LeetCode/blob/master/2021-04/count-binary-strings.md) - 21.04.23
 7. [Brick Wall](https://github.com/yejineee/LeetCode/blob/master/2021-04/brick-wall.md) - 21.04.24
 8. [Powerful Integers](https://github.com/yejineee/LeetCode/blob/master/2021-05/powerful-integers.md) - 21.05.01
-9. [Array Partion 1](https://github.com/yejineee/LeetCode/blob/master/Array-and-String/array-partition-1.md)
+9. [Array Partion 1](https://github.com/yejineee/LeetCode/blob/master/Array-and-String/array-partition-1.md) - 21.05.08
