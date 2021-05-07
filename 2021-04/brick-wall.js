@@ -2,7 +2,7 @@
  * @param {number[][]} wall
  * @return {number}
  */
-var leastBricks = function (wall) {
+const leastBricks = function (wall) {
   const totalHeight = wall.length;
   const countOfEdge = new Map();
 

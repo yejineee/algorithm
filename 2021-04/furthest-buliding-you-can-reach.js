@@ -3,15 +3,18 @@ class MinHeap {
     this.heap = [];
     this.n = 0;
   }
+
   isEmpty() {
     return !this.n;
   }
+
   top() {
     if (this.isEmpty()) {
       return null;
     }
     return this.heap[1];
   }
+
   pop() {
     if (this.isEmpty()) {
       return null;
@@ -33,6 +36,7 @@ class MinHeap {
     heap[parent] = last;
     return root;
   }
+
   push(item) {
     this.n += 1;
     let i = this.n;
@@ -50,6 +54,6 @@ class MinHeap {
  * @param {number} ladders
  * @return {number}
  */
-var furthestBuilding = function (heights, bricks, ladders) {
+const furthestBuilding = function (heights, bricks, ladders) {
   const minHeap = new minHeap();
 };

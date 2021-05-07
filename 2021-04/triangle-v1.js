@@ -12,7 +12,7 @@ const getNumIfExist = (testNum, num) => {
   return Math.min(testNum, num);
 };
 
-var minimumTotal = function (triangle) {
+const minimumTotal = function (triangle) {
   const depth = triangle.length;
   const pathSum = triangle.reduce(
     (prevSum, _, level) => {

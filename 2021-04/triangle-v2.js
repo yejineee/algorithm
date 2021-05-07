@@ -3,7 +3,7 @@
  * @return {number}
  */
 
-var minimumTotal = function (triangle) {
+const minimumTotal = function (triangle) {
   const depth = triangle.length;
   const sum = [...triangle[depth - 1]];
   for (let level = depth - 2; level >= 0; level--) {

@@ -5,7 +5,7 @@
  * @return {number[]}
  */
 
-var powerfulIntegers = function (x, y, bound) {
+const powerfulIntegers = function (x, y, bound) {
   const maxI = x === 1 ? 0 : Math.floor(Math.log(bound) / Math.log(x));
   const maxJ = y === 1 ? 0 : Math.floor(Math.log(bound) / Math.log(y));
 

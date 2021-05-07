@@ -1,5 +1,5 @@
 const countOfVowels = (str) => {
-  const vowels = ["a", "e", "i", "o", "u"];
+  const vowels = ['a', 'e', 'i', 'o', 'u'];
   const count = Array.from(str).reduce(
     (sum, alpha) => sum + (vowels.includes(alpha.toLowerCase()) ? 1 : 0),
     0
