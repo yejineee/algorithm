@@ -15,5 +15,3 @@ const uniquePaths = function (m, n) {
   }
   return top[n - 1];
 };
-
-uniquePaths(3, 2);
