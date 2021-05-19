@@ -17,3 +17,4 @@
 9. [Array Partion 1](https://github.com/yejineee/LeetCode/blob/master/Array-and-String/array-partition-1.md) - 21.05.08
 10. [64. Minimum Path Sum](https://github.com/yejineee/LeetCode/blob/master/2021-05/minimum-path-sum.md) - 21.05.09
 11. [62. Unique Paths](https://github.com/yejineee/LeetCode/blob/master/2021-05/unique-path.md) - 21.05.15
+12. [Find Duplicate File in System](https://github.com/yejineee/LeetCode/blob/master/2021-05/FindDuplicateFileInSystem.md) - 21.05.19
