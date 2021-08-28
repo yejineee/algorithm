@@ -20,3 +20,4 @@
 12. [Find Duplicate File in System](https://github.com/yejineee/LeetCode/blob/master/2021-05/FindDuplicateFileInSystem.md) - 21.05.19
 13. 61. Rotate List - [Code](https://github.com/yejineee/LeetCode/blob/master/2021-06/61-RotateList.js) - 21.06.06
 14. [1448. Count Good Nodes in Binary Tree](https://github.com/yejineee/LeetCode/blob/master/2021-06/1448-CountGoodNodesinBinaryTree.md) - 21.06.25
+15. [387. First Unique Character in a String](https://github.com/yejineee/LeetCode/blob/master/2021-08/387-First-Unique-Character-in-a-String.md) - 21.08.08
