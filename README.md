@@ -22,3 +22,7 @@
 14. [1448. Count Good Nodes in Binary Tree](https://github.com/yejineee/LeetCode/blob/master/2021-06/1448-CountGoodNodesinBinaryTree.md) - 21.06.25
 15. [387. First Unique Character in a String](https://github.com/yejineee/LeetCode/blob/master/2021-08/387-First-Unique-Character-in-a-String.md) - 21.08.08
 16. [929. Unique Email Addresses](https://github.com/yejineee/LeetCode/blob/master/2021-08/929-Unique-Email-Addresses.md) - 21.08.28
+17. [Algorithm 1 - Day1](https://leetcode.com/study-plan/algorithm/): Binary Search (lower bound) - 21.09.16
+      - [704. Binary-Search](https://github.com/yejineee/LeetCode/blob/master/2021-09/704-Binary-Search.js)
+      - [35. Search-Insertion-Position](https://github.com/yejineee/LeetCode/blob/master/2021-09/35-Search-Insertion-Position.js)
+      - [278. First-Bad-Version](https://github.com/yejineee/LeetCode/blob/master/2021-09/278-First-Bad-Version.js)
