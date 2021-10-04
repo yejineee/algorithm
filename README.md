@@ -28,3 +28,4 @@
       - 278-First-Bad-Version - [Code](/2021-09/278-First-Bad-Version.js)
 18. [Algorithm 1 - Day2](https://leetcode.com/study-plan/algorithm/): Two Pointers - 21.09.17
       - [977. Squares-of-a-Sorted-Array](/2021-09/977-Squares-of-a-Sorted-Array.md)
+19. [674. Longest Continuous Increasing Subsequence](https://github.com/yejineee/LeetCode/blob/master/2021-10/674-Longest-Continuous-Increasing-Subsequence.md)  - 21.10.04
