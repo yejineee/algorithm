@@ -39,3 +39,4 @@
 20. 2D Array - DS - [code](./2021-12/2d-array-ds.ts) - 21.11.29
 21. Sales by Match - [code](2021-12/sales-by-match.ts) - 21.11.29
 22. Hash Tables: Ransom Note - [code](./2021-12/ransom-note.ts) - 21.12.04
+23. Sherlock and anagram - [code](2021-12/sherlock-and-anagrams.ts) - 21.12.04
