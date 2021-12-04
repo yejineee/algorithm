@@ -39,15 +39,11 @@ function checkMagazine(magazine: string[], note: string[]): void {
   }, new Map());
 
   const isInvalid = note.some((word) => {
-    if(!wordCountMap.has(word)){
+    const count : number | null = wordCountMap.get(word)
+    if(!count){
       return true;
     }
-    const decrementedCount = wordCountMap.get(word) - 1;
-    if(decrementedCount <= 0){
-      wordCountMap.delete(word);
-    }else{
-      wordCountMap.set(word, decrementedCount);
-    }
+    wordCountMap.set(word, count-1);
     return false;
   });
 
