@@ -6,6 +6,8 @@
 
 ## List
 
+**<LeetCode>**
+
 1. Design Circular Queue - [Code](/2021-04/design-circular-queue.js)
 2. [Determine if String Halves Are Alike](/2021-04/determine-if-string-halves-are-alike.md)
 3. Minimum Absolute Sum Difference - [Code](/2021-04/minimum-absolute-sum-difference.js)
@@ -29,3 +31,11 @@
 18. [Algorithm 1 - Day2](https://leetcode.com/study-plan/algorithm/): Two Pointers - 21.09.17
       - [977. Squares-of-a-Sorted-Array](/2021-09/977-Squares-of-a-Sorted-Array.md)
 19. [674. Longest Continuous Increasing Subsequence](https://github.com/yejineee/LeetCode/blob/master/2021-10/674-Longest-Continuous-Increasing-Subsequence.md)  - 21.10.04
+
+<hr />
+
+**<HackerRank - Interview Prepare Kit></HackerRank>**
+
+20. 2D Array - DS [code](./2021-12/2d-array-ds.ts) - 21.11.29
+21. Sales by Match[code](2021-12/sales-by-match.ts) - 21.11.29
+22. Hash Tables: Ransom Note [code](./2021-12/ransom-note.ts) - 21.12.04
