@@ -30,7 +30,7 @@
       - 278-First-Bad-Version - [Code](/2021-09/278-First-Bad-Version.js)
 18. [Algorithm 1 - Day2](https://leetcode.com/study-plan/algorithm/): Two Pointers - 21.09.17
       - [977. Squares-of-a-Sorted-Array](/2021-09/977-Squares-of-a-Sorted-Array.md)
-19. [674. Longest Continuous Increasing Subsequence](https://github.com/yejineee/LeetCode/blob/master/2021-10/674-Longest-Continuous-Increasing-Subsequence.md)  - 21.10.04
+19. [674. Longest Continuous Increasing Subsequence](/2021-10/674-Longest-Continuous-Increasing-Subsequence.md)  - 21.10.04
 
 <hr />
 
@@ -39,4 +39,4 @@
 20. 2D Array - DS - [code](./2021-12/2d-array-ds.ts) - 21.11.29
 21. Sales by Match - [code](2021-12/sales-by-match.ts) - 21.11.29
 22. Hash Tables: Ransom Note - [code](./2021-12/ransom-note.ts) - 21.12.04
-23. Sherlock and anagram - [code](2021-12/sherlock-and-anagrams.ts) - 21.12.04
+23. [Sherlock and anagram](2021-12/sherlock-and-anagram.md) - 21.12.04
