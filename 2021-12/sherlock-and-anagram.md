@@ -1,4 +1,4 @@
-# [HackerRank] herlock and Anagrams (in TS)
+# [HackerRank] Sherlock and Anagrams (in TS)
 
 ### 📖 문제
 
