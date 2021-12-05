@@ -6,15 +6,24 @@
  */
 
 function sherlockAndAnagrams(s: string): number {
-    // Write your code here
-    const maxSubstringLength = s.length -1;
+  // Write your code here
+
+  const N_OF_ALPHABET = 26;
+  
+  const getSignature = (string: string):string => Array.from(string)
+    .reduce((alphabetCountArr : number[], char) => {
+      const index = char.charCodeAt(0) - 'a'.charCodeAt(0);
+      alphabetCountArr[index] = alphabetCountArr[index] + 1;
+      return alphabetCountArr;
+    }, new Array(N_OF_ALPHABET).fill(0))
+    .join('')
+
     const substrCountMap = new Map();
     for(let begin = 0 ; begin < s.length ; begin++){
-      const maxEndIndex = Math.min(begin+maxSubstringLength, s.length);
-      for(let end = begin+1 ; end <= maxEndIndex; end++){
-        const substring = Array.from(s.substring(begin, end)).sort().join('');
-        const prevCount = substrCountMap.has(substring) ? substrCountMap.get(substring) : 0;
-        substrCountMap.set(substring, prevCount+1);
+      for(let end = begin+1 ; end <= s.length; end++){
+        const signature = getSignature(s.substring(begin, end));
+        const count = substrCountMap.has(signature) ? substrCountMap.get(signature) + 1 : 1;
+        substrCountMap.set(signature, count);
       }
     }
 
