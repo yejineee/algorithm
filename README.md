@@ -40,3 +40,4 @@
 21. Sales by Match - [code](2021-12/sales-by-match.ts) - 21.11.29
 22. Hash Tables: Ransom Note - [code](./2021-12/ransom-note.ts) - 21.12.04
 23. [Sherlock and anagram](2021-12/sherlock-and-anagram.md) - 21.12.04
+24. Mark and Toys - [code](2021-12/mark-and-toys.cpp) - 21.12.07
