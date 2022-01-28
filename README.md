@@ -6,7 +6,7 @@
 
 ## List
 
-**<LeetCode>**
+**\<LeetCode>**
 
 1. Design Circular Queue - [Code](/2021-04/design-circular-queue.js)
 2. [Determine if String Halves Are Alike](/2021-04/determine-if-string-halves-are-alike.md)
@@ -34,7 +34,7 @@
 
 <hr />
 
-**<HackerRank - Interview Prepare Kit></HackerRank>**
+**\<HackerRank - Interview Prepare Kit>**
 
 20. 2D Array - DS - [code](./2021-12/2d-array-ds.ts) - 21.11.29
 21. Sales by Match - [code](2021-12/sales-by-match.ts) - 21.11.29
@@ -45,6 +45,6 @@
 
 <hr />
 
-**<LeetCode>**
+**\<LeetCode>**
 
 26. 49.group anagrams [code-v1](2022/49-group-anagrams.v1.js), [code-v2](2022/49-group-anagrams.v2.js) - 22.01.28
