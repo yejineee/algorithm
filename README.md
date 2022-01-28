@@ -20,7 +20,7 @@
 10. [64. Minimum Path Sum](/2021-05/minimum-path-sum.md) - 21.05.09
 11. [62. Unique Paths](/2021-05/unique-path.md) - 21.05.15
 12. [Find Duplicate File in System](/2021-05/FindDuplicateFileInSystem.md) - 21.05.19
-13. 61. Rotate List - [Code](/2021-06/61-RotateList.js) - 21.06.06
+13. 61.Rotate List - [Code](/2021-06/61-RotateList.js) - 21.06.06
 14. [1448. Count Good Nodes in Binary Tree](/2021-06/1448-CountGoodNodesinBinaryTree.md) - 21.06.25
 15. [387. First Unique Character in a String](/2021-08/387-First-Unique-Character-in-a-String.md) - 21.08.08
 16. [929. Unique Email Addresses](/2021-08/929-Unique-Email-Addresses.md) - 21.08.28
@@ -42,3 +42,9 @@
 23. [Sherlock and anagram](2021-12/sherlock-and-anagram.md) - 21.12.04
 24. Mark and Toys - [code](2021-12/mark-and-toys.cpp) - 21.12.07
 25. Sorting : Compare - [code](2021-12/sorting-compare.ts) - 21.12.10
+
+<hr />
+
+**<LeetCode>**
+
+26. 49.group anagrams [code-v1](2022/49-group-anagrams.v1.js), [code-v2](2022/49-group-anagrams.v2.js) - 22.01.28
