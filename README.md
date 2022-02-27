@@ -48,3 +48,4 @@
 **\<LeetCode>**
 
 26. 49.group anagrams [code-v1](2022/49-group-anagrams.v1.js), [code-v2](2022/49-group-anagrams.v2.js) - 22.01.28
+27. [number of provinces](2022/number-of-provinces.md) - 22.02.26
