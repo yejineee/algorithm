@@ -47,7 +47,8 @@
 
 **\<LeetCode>**
 
-26. 49.group anagrams [code-v1](2022/49-group-anagrams.v1.js), [code-v2](2022/49-group-anagrams.v2.js) - 22.01.28
+26. 49. group anagrams [code-v1](2022/49-group-anagrams.v1.js), [code-v2](2022/49-group-anagrams.v2.js) - 22.01.28
 27. [number of provinces](2022/number-of-provinces.md) - 22.02.26
-28. 1046.last stone weight [code-v1](2022/1046-last-stone-weight-v1.js) - 22.04.07
-29. 20.valid parentheses [code](2022/20-valid-parentheses.js) - 22.04.11
+28. 1046. last stone weight [code-v1](2022/1046-last-stone-weight-v1.js) - 22.04.07
+29. 20. valid parentheses [code](2022/20-valid-parentheses.js) - 22.04.11
+30. 104. maximum depth of binary tree[code](2022/104-max-depth-of-binary-tree.js) - 22.04.12
