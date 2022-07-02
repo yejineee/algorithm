@@ -52,3 +52,6 @@
 28. 1046. last stone weight [code-v1](2022/1046-last-stone-weight-v1.js) - 22.04.07
 29. 20. valid parentheses [code](2022/20-valid-parentheses.js) - 22.04.11
 30. 104. maximum depth of binary tree[code](2022/104-max-depth-of-binary-tree.js) - 22.04.12
+31. 724. Find Pivot Index [code](2022/724.%20Find%20Pivot%20Index.js) - 22.07.02
+32. 1480. Running Sum of 1d ArrayBackup [code](2022/1480.%20Running%20Sum%20of%201d%20Array.js) - 22.07.02
+
